@@ -49,11 +49,111 @@ Write the detailed procedure here
 
 **RTL Schematic**
 
+FUll Adder
+<img width="587" height="313" alt="image" src="https://github.com/user-attachments/assets/1f34d32e-3ee6-43d4-a7b8-3fb3c967a693" />
+<img width="1885" height="365" alt="image" src="https://github.com/user-attachments/assets/01f0e4a6-2311-46c5-9f19-fc840c620167" />
+FULL SUBTRACTOR
+<img width="615" height="295" alt="image" src="https://github.com/user-attachments/assets/2d62ae6c-2825-4186-a21e-d431c5a1ed3c" />
+<img width="1919" height="375" alt="image" src="https://github.com/user-attachments/assets/6294f7d9-5d1f-4eaa-8bd4-bb2706535074" />
+
 **Output Timing Waveform**
 
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
+
+.
+..
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+..
 
 
